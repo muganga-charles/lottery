@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 # lottey
 ## it contains two files
-*LotteryCards.java
-*RoomWinner.java
+1.LotteryCards.java <br />
+2.RoomWinner.java
