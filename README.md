@@ -1,3 +1,4 @@
 # lottey
 ## it contains two files
-* a program
+*LotteryCards.java
+*RoomWinner.java
